@@ -1,0 +1,18 @@
+D:\ASP CODE\EmployeeSalaryApps\EmployeeSalaryApps\bin\Debug\EmployeeSalaryApps.exe.config
+D:\ASP CODE\EmployeeSalaryApps\EmployeeSalaryApps\bin\Debug\EmployeeSalaryApps.exe
+D:\ASP CODE\EmployeeSalaryApps\EmployeeSalaryApps\bin\Debug\EmployeeSalaryApps.pdb
+D:\ASP CODE\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.csprojResolveAssemblyReference.cache
+D:\ASP CODE\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.Form1.resources
+D:\ASP CODE\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.Properties.Resources.resources
+D:\ASP CODE\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.csproj.GenerateResource.Cache
+D:\ASP CODE\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.exe
+D:\ASP CODE\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.pdb
+D:\atiiucProjects\14.12.2014\EmployeeSalaryApps\EmployeeSalaryApps\bin\Debug\EmployeeSalaryApps.exe.config
+D:\atiiucProjects\14.12.2014\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.exe
+D:\atiiucProjects\14.12.2014\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.pdb
+D:\atiiucProjects\14.12.2014\EmployeeSalaryApps\EmployeeSalaryApps\bin\Debug\EmployeeSalaryApps.exe
+D:\atiiucProjects\14.12.2014\EmployeeSalaryApps\EmployeeSalaryApps\bin\Debug\EmployeeSalaryApps.pdb
+D:\atiiucProjects\14.12.2014\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\14.12.2014\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.Form1.resources
+D:\atiiucProjects\14.12.2014\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.Properties.Resources.resources
+D:\atiiucProjects\14.12.2014\EmployeeSalaryApps\EmployeeSalaryApps\obj\Debug\EmployeeSalaryApps.csproj.GenerateResource.Cache

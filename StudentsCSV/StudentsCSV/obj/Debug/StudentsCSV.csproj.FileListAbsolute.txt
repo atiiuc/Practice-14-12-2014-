@@ -1,0 +1,8 @@
+D:\atiiucProjects\14.12.2014\StudentsCSV\StudentsCSV\bin\Debug\StudentsCSV.exe.config
+D:\atiiucProjects\14.12.2014\StudentsCSV\StudentsCSV\bin\Debug\StudentsCSV.exe
+D:\atiiucProjects\14.12.2014\StudentsCSV\StudentsCSV\bin\Debug\StudentsCSV.pdb
+D:\atiiucProjects\14.12.2014\StudentsCSV\StudentsCSV\obj\Debug\StudentsCSV.Form1.resources
+D:\atiiucProjects\14.12.2014\StudentsCSV\StudentsCSV\obj\Debug\StudentsCSV.Properties.Resources.resources
+D:\atiiucProjects\14.12.2014\StudentsCSV\StudentsCSV\obj\Debug\StudentsCSV.csproj.GenerateResource.Cache
+D:\atiiucProjects\14.12.2014\StudentsCSV\StudentsCSV\obj\Debug\StudentsCSV.exe
+D:\atiiucProjects\14.12.2014\StudentsCSV\StudentsCSV\obj\Debug\StudentsCSV.pdb
